@@ -1,2 +1,4 @@
 # NeoNiteCPP-Loader
-Loader for NeoNite privat server.
+C++ Loader, made for the Private Server called NeoNite. 
+
+
